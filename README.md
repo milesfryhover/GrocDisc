@@ -17,29 +17,29 @@ I wrote this bot specifically for use with my partner, so I've sprinkled a few c
 ## Installation
 
 1. **Clone the Repository**:
-    \```
+    ```
     git clone https://github.com/yourusername/grocery-list-discord-bot.git
     cd grocery-list-discord-bot
-    \```
+    ```
 
 2. **Install Dependencies**:
     Make sure you have Python installed. Then, run:
-    \```
+    ```
     pip install -r requirements.txt
-    \```
+    ```
 
 3. **Set Up Environment Variables**:
     Create a `.env` file in the root directory and add your Discord bot token:
-    \```
+    ```
     DISCORD_BOT_TOKEN=your_token_here
-    \```
+    ```
 
 ## Usage
 
 Run the bot using the Python script:
-\```
+```
 python bot.py
-\```
+```
 
 ## Commands
 
