@@ -59,7 +59,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith('!love '):
+    if message.content.startswith('!love'):
         print('Sending love to Ais!')
         await message.channel.send('I love you!')
 
